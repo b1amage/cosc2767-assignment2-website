@@ -2,6 +2,8 @@
 
 ## Description
 
+![Screenshot](./screenshots/jenkins/20.web.png)
+
 Setting up a simple pipeline run every minutes if there is any changes
 
 ## Student information
