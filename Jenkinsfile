@@ -13,7 +13,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh 'apache-maven-3.9.5/bin/mvn clean install'
+                sh '/apache-maven-3.9.5/bin/mvn clean install'
             }
         }
 
