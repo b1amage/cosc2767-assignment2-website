@@ -7,7 +7,6 @@ pipeline {
                 git(
                     url: 'https://github.com/b1amage/cosc2767-assignment2-website',
                     branch: 'main',
-                    credentialsId: 's3877698'
                 )
             }
         }
